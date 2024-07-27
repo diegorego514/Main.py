@@ -4,7 +4,7 @@ load_dotenv()
 @Bot.message ('(f'Hello, world!')') 
 
 else:
-    print('hello' +inp+ 'how is your day?')
+    print(hello +inp+ how is your day):
 
 
 **// Bot Commands Goes Here //**
