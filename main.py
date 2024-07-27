@@ -48,4 +48,4 @@ Bot.def: del 32 viral infections.
 ** // More commands will soon be avaliable, remember this bot is still in the closed beta versions. //**
 
 
-client.run(os.getenv{MTI2NjUzOTY1ODM0NzU0NDcwOA.G_5SHA.lpCVDnnmBNlWLRZujFLg5e0k8b0loByBzxGZMU})
+client.run(os.getenv{MTI2NjUzOTY1ODM0NzU0NDcwOA.Gwuh8G.8Y6rHHupJaBUh-iXVnr379zVcuhhSmr7vERvkQ})
