@@ -1,10 +1,10 @@
 from dotenv import load_dotenv
 load_dotenv()
 
-@Bot.message ('(f'Hello, world!')') 
+@Bot.message (hello, world +inp+ how is your day?)
 
 else:
-    print(hello +inp+ how is your day):
+    print (hello +inp+ how is your day?)
 
 
 **// Bot Commands Goes Here //**
